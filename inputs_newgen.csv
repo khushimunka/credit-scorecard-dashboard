@@ -1,0 +1,21 @@
+group,metric,value
+quant,Current Ratio,2.1
+quant,Quick Ratio,1.6
+quant,DSCR,3.2
+quant,Interest Coverage,8.0
+quant,Debt-to-Equity,0.4
+quant,EBITDA Margin (%),26
+quant,ROCE (%),18
+quant,Revenue Growth YoY (%),15
+quant,Operating Cash Flow / EBITDA,0.9
+quant,Receivables Days,75
+
+qual,Timely & Reliable Reporting (1-5),4
+qual,Loan Repayment Track Record (1-5),4
+qual,Tax & Statutory Compliance (1-5),5
+qual,Governance & Transparency (1-5),4
+qual,Management Capability (1-5),4
+qual,Technology & Innovation (1-5),5
+qual,Customer Concentration Risk (1-5),3
+qual,Industry Growth Outlook (1-5),4
+qual,Legal/Regulatory Sensitivity (1-5),4
